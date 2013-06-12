@@ -1,0 +1,4 @@
+dotsanitise
+===========
+
+Sanitise .dot files
